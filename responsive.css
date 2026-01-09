@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  .news-card {
+    padding: 20px !important;
+  }
+
+  .donate-quick-items {
+    display: grid !important;
+    grid-template-columns: 2fr 2fr !important;
+  }
+
+  .donate-quick-item {
+    width: 100% !important;
+  }
+}
